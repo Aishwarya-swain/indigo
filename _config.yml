@@ -42,12 +42,13 @@ googlescholar: mygooglescholar
 email: myemail@gmail.com
 
 authors:
-  johndoe:
+  aishwarya:
     name: Aishwarya Swain
     bio: A mountain lover, curious learner, and explorer at heart
     external-image: false
     picture: assets/images/profile.jpg
     twitter: bioaish
+    
   jamesfoster:
     name:Aishwarya Swain
     bio: coffee adict
