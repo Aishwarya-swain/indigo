@@ -1,6 +1,6 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Aishwarya Swain
+bio: A mountain lover, curious learner, and explorer at heart
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -12,7 +12,7 @@ picture: assets/images/profile.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
-dark-theme: auto
+dark-theme: false
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -43,17 +43,17 @@ email: myemail@gmail.com
 
 authors:
   johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+    name: Aishwarya Swain
+    bio: A mountain lover, curious learner, and explorer at heart
     external-image: false
     picture: assets/images/profile.jpg
-    twitter: johndoe
+    twitter: bioaish
   jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
+    name:Aishwarya Swain
+    bio: coffee adict
     external-image: false
     picture: assets/images/james.jpg
-    twitter: jamesfoster
+    twitter:  bioaish
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
