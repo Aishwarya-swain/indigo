@@ -1,9 +1,9 @@
 
-title: "Aishwarya Swain"
-bio: "A mountain lover, curious learner, and explorer at heart"
+title: Aishwarya Swain
+bio: A mountain lover, curious learner, and explorer at heart
 
 # twitter summary info
-description: "A blog about technology and stuff related"
+description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -18,9 +18,9 @@ dark-theme: false
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: "https://google.com/?q=my+resume"
+resume-url: https://google.com/?q=my+resume
 
-url: "https://aishwarya-swain.github.io/indigo"
+url: https://aishwarya-swain.github.io/indigo
 
 permalink: /:title/
 
