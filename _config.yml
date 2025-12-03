@@ -20,7 +20,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://aishwarya-swain.github.io/indigo
+url: https://aishwarya-swain.github.io/indigo/
 
 permalink: /:title/
 
@@ -48,8 +48,8 @@ authors:
     picture: assets/images/profile.jpg
     twitter: bioaish
     
- aishwarya swain:
-    name: Aishwarya Swain
+ aishwaryaswain:
+    name: Aishwarya1 Swain
     bio: coffee adict
     external-image: false
     picture: assets/images/james.jpg
