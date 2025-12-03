@@ -20,8 +20,8 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://aishwarya-swain.github.io/indigo
-# your url: https://USERNAME.github.io
+url: "https://aishwarya-swain.github.io"
+baseurl: "/indigo"
 
 permalink: /:title/
 
