@@ -48,12 +48,12 @@ authors:
     picture: assets/images/profile.jpg
     twitter: bioaish
     
-  jamesfoster:
-    name:Aishwarya Swain
-    bio:coffee adict
+ aishwarya swain:
+    name: Aishwarya Swain
+    bio: coffee adict
     external-image: false
     picture: assets/images/james.jpg
-    twitter:  bioaish
+    twitter: bioaish
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
