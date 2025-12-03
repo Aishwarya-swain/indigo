@@ -2,7 +2,7 @@ title: "Aishwarya Swain"
 bio: "A mountain lover, curious learner, and explorer at heart"
 description: "A blog about technology and stuff related"
 external-image: false
-picture: "assets/images/profile.jpg"
+picture: "assets/images/james.jpg"
 
 dark-theme: false
 resume: true
@@ -32,15 +32,9 @@ authors:
     name: "Aishwarya Swain"
     bio: "A mountain lover, curious learner, and explorer at heart"
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: bioaish
-    
-  aishwaryaswain:
-    name: "Aishwarya1 Swain"
-    bio: "coffee adict"
-    external-image: false
     picture: assets/images/james.jpg
     twitter: bioaish
+
 
 width: normal
 
